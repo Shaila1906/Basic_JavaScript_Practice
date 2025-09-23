@@ -1,3 +1,9 @@
+/* 
+    Retrieve the length of the quote, and store it in a variable called quoteLength.
+    Find the index position where substring appears in quote, and store that value in a variable called index.
+    Use a combination of the variables you have and available string properties/methods to trim down the original quote to "I do not like green eggs and ham.", and store it in a variable called revisedQuote.
+*/
+
 const quote = "I do not like green eggs and ham. I do not like them, Sam-I-Am.";
 const substring = "green eggs and ham";
 
